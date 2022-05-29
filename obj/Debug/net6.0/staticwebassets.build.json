@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "y+7fK3AQRPiBJkLZWaSOLnYL6KFd1tKdDqNvileKO64=",
+  "Source": "MovieApp",
+  "BasePath": "_content/MovieApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieApp\\wwwroot",
+      "Source": "MovieApp",
+      "ContentRoot": "C:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\wwwroot\\index.html",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
