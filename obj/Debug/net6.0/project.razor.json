@@ -16298,6 +16298,16 @@
   "RootNamespace": "MovieApp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\Views\\App\\_ViewStart.cshtml",
+      "TargetPath": "Views\\App\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\Views\\App\\welcome.cshtml",
+      "TargetPath": "Views\\App\\welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\Views\\Home\\index.cshtml",
       "TargetPath": "Views\\Home\\index.cshtml",
       "FileKind": "mvc"
@@ -16310,6 +16320,11 @@
     {
       "FilePath": "c:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -15,8 +15,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\wandi\Documents\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\Labs-Curso-NetCoreRectJs-main\Projetos_Wandir\MovieApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/wandi/Documents/2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack/Labs-Curso-NetCoreRectJs-main/Projetos_Wandir/MovieApp/Views/App/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXGluZGV4LmNzaHRtbA==
+[C:/Users/wandi/Documents/2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack/Labs-Curso-NetCoreRectJs-main/Projetos_Wandir/MovieApp/Views/App/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/wandi/Documents/2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack/Labs-Curso-NetCoreRectJs-main/Projetos_Wandir/MovieApp/Views/App/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFdlbGNvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/wandi/Documents/2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack/Labs-Curso-NetCoreRectJs-main/Projetos_Wandir/MovieApp/Views/App/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/wandi/Documents/2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack/Labs-Curso-NetCoreRectJs-main/Projetos_Wandir/MovieApp/Views/Home/index.cshtml]
@@ -25,6 +33,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/wandi/Documents/2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack/Labs-Curso-NetCoreRectJs-main/Projetos_Wandir/MovieApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/wandi/Documents/2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack/Labs-Curso-NetCoreRectJs-main/Projetos_Wandir/MovieApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/wandi/Documents/2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack/Labs-Curso-NetCoreRectJs-main/Projetos_Wandir/MovieApp/Views/_ViewImports.cshtml]

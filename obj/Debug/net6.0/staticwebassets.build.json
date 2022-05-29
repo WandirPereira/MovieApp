@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y+7fK3AQRPiBJkLZWaSOLnYL6KFd1tKdDqNvileKO64=",
+  "Hash": "TeFlGBmQJ48vH4Wojl6g0BA+SqzbJzVNaM70ULOPBH4=",
   "Source": "MovieApp",
   "BasePath": "_content/MovieApp",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\wwwroot\\css\\site.css",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
     {
       "Identity": "C:\\Users\\wandi\\Documents\\2022-CursoAspnetCore5yReactDesdeZeroHataCrearUnSlack\\Labs-Curso-NetCoreRectJs-main\\Projetos_Wandir\\MovieApp\\wwwroot\\index.html",
       "SourceId": "MovieApp",

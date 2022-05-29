@@ -8,5 +8,11 @@ namespace MovieApp.Controllers
             //throw new InvalidOperationException();
             return View();
         }
+
+        //Welcome
+        public IActionResult Welcome(){
+            //throw new InvalidOperationException();
+            return View();
+        }
     }
 }
